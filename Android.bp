@@ -111,6 +111,7 @@ cc_prebuilt_library_shared {
         "liblog",
         "libm",
         "libmedia_jni_utils",
+        "libhidltransport", 
         "libnativehelper",
         "libnativewindow",
         "libui",

@@ -1,0 +1,1 @@
+MiuiCamera for Flame/Sky devices
